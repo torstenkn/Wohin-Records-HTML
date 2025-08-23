@@ -439,7 +439,7 @@
 }
  
 .navbar8root-class-name {
-  position: fixed;
+  position: static;
   background-color: rgba(251, 250, 249, 0.75);
 }
  
