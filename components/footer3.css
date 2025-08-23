@@ -126,10 +126,6 @@
   display: inline-block;
 }
  
-.footer3root-class-name {
-  background-color: var(--dl-color-theme-secondary2);
-}
- 
 @media(max-width: 991px) {
   .footer3-logo {
     width: auto;
